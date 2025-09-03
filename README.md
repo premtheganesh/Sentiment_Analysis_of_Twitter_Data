@@ -83,4 +83,8 @@ The project uses the following technologies:
 This project structure is maintained consistently. Note that model files are not included; you will need to download them after running the model.
 
 
-<img width="2560" height="1142" alt="image" src="https://github.com/user-attachments/assets/7282d0aa-c5f1-4ea0-a6c9-97d0e2d5869c" />
+## Project Screenshot
+This is a screenshot of my Sentiment Analysis Using Twitter Data project, showcasing the Gradio interface for real-time sentiment prediction. Explore the interactive demo and codebase to see how BERT achieves ~92.7% accuracy!
+
+![Sentiment Analysis Gradio Interface](<img width="2560" height="1142" alt="image" src="https://github.com/user-attachments/assets/cd10247a-08c9-402a-b470-45041ac72a64" />
+)
