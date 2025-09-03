@@ -9,7 +9,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 # Point this to the folder that contains: config.json, model.safetensors (or pytorch_model.bin),
 # tokenizer files (vocab.txt / merges / tokenizer_config.json / special_tokens_map.json, etc.)
 # You can also override via environment variable: export MODEL_DIR=/path/to/model
-MODEL_DIR = "/Users/premg/Desktop/PremG/AI-ML Projects/Social Media/Sentiment Analysis of Twitter Data/saved_model_BERT"
+MODEL_DIR = "/path/to/model"
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR)
 model = AutoModelForSequenceClassification.from_pretrained(MODEL_DIR)
