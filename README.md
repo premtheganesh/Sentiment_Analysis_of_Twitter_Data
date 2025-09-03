@@ -76,7 +76,8 @@ The project uses the following technologies:
 - **Interface**: Gradio
 
 ## Project Structure
-- `Final-Sentiment_Analysis_for_Twitter_Data.ipynb`: Main notebook for data loading, preprocessing, modeling, and evaluation
-- `app.py`: Gradio app for deploying the model
-- `requirements.txt`: List of dependencies to reproduce the project environment
+- `notebook/Final-Sentiment_Analysis_for_Twitter_Data.ipynb`: Main notebook for data loading, preprocessing, modeling, and evaluation
+- `app/app.py`: Gradio app for deploying the model
+- `app/requirements.txt`: List of dependencies to reproduce the project environment
 - `README.md`: Documentation file
+This project structure is maintained consistently. Note that model files are not included; you will need to download them after running the model.
