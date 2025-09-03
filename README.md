@@ -81,3 +81,6 @@ The project uses the following technologies:
 - `app/requirements.txt`: List of dependencies to reproduce the project environment
 - `README.md`: Documentation file
 This project structure is maintained consistently. Note that model files are not included; you will need to download them after running the model.
+
+
+<img width="2560" height="1142" alt="image" src="https://github.com/user-attachments/assets/7282d0aa-c5f1-4ea0-a6c9-97d0e2d5869c" />
